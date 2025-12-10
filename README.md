@@ -148,8 +148,7 @@ The algorithm repeatedly:
 4. Watch the step-by-step visualization
 
 ## Hugging Face Link
-🚀 **Live Demo:** [Your Hugging Face App Link Here]
-
+   🚀 **Live Demo:** https://huggingface.co/spaces/dopeemp/binary-search-visualizer
 ## Testing & Verification
 
 ### Test Cases
